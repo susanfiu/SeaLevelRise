@@ -2,7 +2,7 @@ SeaLevelRise
 ============
 
 TIDE INFORMATION
-Tide information is from tidesandcurrents.noaa.gov.
+Tide information is from http://tidesandcurrents.noaa.gov.
 You can download annual tide predictions.
 
 ELEVATION
